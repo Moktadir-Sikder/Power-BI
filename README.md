@@ -12,4 +12,4 @@ The dashboard was built using the following tools and technologies:
 • 📁 File Format – .pbix for development and .png for dashboard previews.
 
 4. Screenshots / Demos
-   
+   https://github.com/Moktadir-Sikder/Power-BI/blob/main/Screenshot%20(287).png
